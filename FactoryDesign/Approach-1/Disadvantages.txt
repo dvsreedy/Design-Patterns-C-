@@ -1,2 +1,8 @@
 1) If there are more vehicles , we need to add those dependencies.
 2) Creation design is in main, which makes it difficult for modification.
+
+
+So to solve above problems,we move the creational logic, to the factory class,
+which will contain creational logic of object.
+
+This solution uses factory design pattern
