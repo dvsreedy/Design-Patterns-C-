@@ -1,9 +1,9 @@
-#include bike.hpp 
+#include "bike.hpp"
 #include <iostream>
 
-using name space std;
+using namespace std;
 
-void bike::createVehicle(){
+void Bike::createVehicle(){
     cout<<"Creating bike"<<endl;
 
-}
+};
