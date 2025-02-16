@@ -1,2 +1,2 @@
 # Design-Patterns-C-
-This repo is implementation of commonly used design patterns.
+This repo is implementation of commonly used design patterns in C++.

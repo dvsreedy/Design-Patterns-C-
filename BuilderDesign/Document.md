@@ -13,3 +13,7 @@ ar r builder.a dell_desktop_builder.o desktop.o hp_desktop_builder.o builder.a
 g++ -o client .\client.cpp builder.a 
 
 
+
+#ifndef is used to check if the header is already defined, it will be added
+if its not added already.
+
